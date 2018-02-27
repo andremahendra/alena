@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://alena.andremahendra.com/">
-    <img src="https://goo.gl/yAisgK" alt="" width=72 height=72>
+    <img src="https://andremahendra.com/alena/alena-logo.png" alt="" width=72 height=72>
   </a>
 
   <h3 align="center">Alena</h3>
@@ -15,9 +15,9 @@
 
 ## Alena
 
-[Alena] is An Open-source SCSS framework is great in terms of saving your time and energy.
+[Alena] is an Open-source SCSS framework is great in terms of saving your time and energy.
 
-[Alena]: http://alena.andremahendra.com/
+[Alena]: https://alena.andremahendra.com/
 
 ## Installation
 
@@ -40,7 +40,7 @@
 [Alena] supports Internet Explorer 11+ and the latest versions of Chrome,
 Firefox, Safari, and Edge.
 
-[Alena]: http://alena.andremahendra.com/
+[Alena]: https://alena.andremahendra.com/
 
 ## Creators
 
