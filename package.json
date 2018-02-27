@@ -1,0 +1,45 @@
+{
+  "name": "alena",
+  "version": "0.0.1",
+  "description": "alena",
+  "main": "dist/",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-livereload": "^3.8.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "require-dir": "^1.0.0",
+    "sassdoc": "^2.5.0"
+  },
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andremahendra/alena.git"
+  },
+  "keywords": [
+    "alena",
+    "sass",
+    "scss",
+    "library",
+    "framework",
+    "responsive",
+    "micro",
+    "open source",
+    "lightweight",
+    "frontend"
+  ],
+  "author": "kadek andre mahendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andremahendra/alena/issues"
+  },
+  "homepage": "https://github.com/andremahendra/alena#readme"
+}
